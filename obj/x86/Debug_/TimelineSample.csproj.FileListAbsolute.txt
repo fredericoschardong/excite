@@ -1,0 +1,39 @@
+D:\VS2010\TimelineSample\TimelineSample\bin\Debug\TimelineSample.exe
+D:\VS2010\TimelineSample\TimelineSample\bin\Debug\TimelineSample.pdb
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\MainWindow.baml
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\TimelineControl.baml
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\MainWindow.g.cs
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\TimelineControl.g.cs
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\App.g.cs
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.cache
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.g.resources
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.Properties.Resources.resources
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.exe
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.pdb
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VS2010\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.lref
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.exe
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.pdb
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\bin\Debug\TimelineSample.exe
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\bin\Debug\TimelineSample.pdb
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineControl.baml
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineControl.g.cs
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\App.g.cs
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.cache
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.lref
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.g.resources
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.Properties.Resources.resources
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Event.baml
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Event.g.cs
+C:\Users\Interactions Lab\Desktop\TimelineSample__\TimelineSample\obj\x86\Debug\TimelineSample.exe
+C:\Users\Interactions Lab\Desktop\TimelineSample__\TimelineSample\obj\x86\Debug\TimelineSample.pdb
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Template.baml

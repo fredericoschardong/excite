@@ -1,0 +1,92 @@
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\bin\Debug\TimelineSample.exe
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\bin\Debug\TimelineSample.pdb
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Comments.baml
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Event.baml
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\TimelineControl.baml
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Comments.g.cs
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Event.g.cs
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\MainWindow.g.cs
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\TimelineControl.g.cs
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\App.g.cs
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.cache
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.lref
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\MainWindow.baml
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.g.resources
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.Properties.Resources.resources
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.exe
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.pdb
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\Template.baml
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Loading.baml
+C:\Users\Interactions Lab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Loading.g.cs
+I:\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.exe
+I:\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.pdb
+I:\TimelineSample\TimelineSample\bin\Debug\TimelineSample.exe
+I:\TimelineSample\TimelineSample\bin\Debug\TimelineSample.pdb
+I:\TimelineSample\TimelineSample\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Comments.baml
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Event.baml
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Loading.baml
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\Template.baml
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\TimelineControl.baml
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Comments.g.cs
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Event.g.cs
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Loading.g.cs
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Windows\MainWindow.g.cs
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\TimelineControl.g.cs
+I:\TimelineSample\TimelineSample\obj\x86\Debug\App.g.cs
+I:\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.cache
+I:\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.lref
+I:\TimelineSample\TimelineSample\obj\x86\Debug\Windows\MainWindow.baml
+I:\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.g.resources
+I:\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.Properties.Resources.resources
+I:\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.exe
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.pdb
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\bin\Debug\TimelineSample.exe
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\bin\Debug\TimelineSample.pdb
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Comments.baml
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Event.baml
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Loading.baml
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\Template.baml
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\TimelineControl.baml
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Comments.g.cs
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Event.g.cs
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Loading.g.cs
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\MainWindow.g.cs
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\TimelineControl.g.cs
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\App.g.cs
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.cache
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.lref
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\Windows\MainWindow.baml
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.g.resources
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.Properties.Resources.resources
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iLab\Desktop\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.exe
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.pdb
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\bin\Debug\TimelineSample.exe
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\bin\Debug\TimelineSample.pdb
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Comments.baml
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Event.baml
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Loading.baml
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\Template.baml
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\TimelineControl.baml
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Comments.g.cs
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Event.g.cs
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Windows\Loading.g.cs
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Windows\MainWindow.g.cs
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Timeline\TimelineControl.g.cs
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\App.g.cs
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.cache
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample_MarkupCompile.lref
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\Windows\MainWindow.baml
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.g.resources
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\TimelineSample.Properties.Resources.resources
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iLab\Desktop\Frederico\TimelineSample\TimelineSample\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,132 @@
+﻿<UserControl x:Class="TimelineSample.TimelineControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" UseLayoutRounding="True"
+             Height="24" Width="120">
+    <Grid x:Name="LayoutRoot">
+        <Canvas>
+            <Line Name="Minute00" X1="0" Y1="0" X2="0" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute00b" X1="0" Y1="16" X2="0" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute01" X1="2" Y1="0" X2="2" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute01b" X1="2" Y1="16" X2="2" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute02" X1="4" Y1="0" X2="4" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute02b" X1="4" Y1="16" X2="4" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute03" X1="6" Y1="0" X2="6" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute03b" X1="6" Y1="16" X2="6" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute04" X1="8" Y1="0" X2="8" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute04b" X1="8" Y1="16" X2="8" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute05" X1="10" Y1="0" X2="10" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute05b" X1="10" Y1="16" X2="10" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute06" X1="12" Y1="0" X2="12" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute06b" X1="12" Y1="16" X2="12" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute07" X1="14" Y1="0" X2="14" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute07b" X1="14" Y1="16" X2="14" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute08" X1="16" Y1="0" X2="16" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute08b" X1="16" Y1="16" X2="16" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute09" X1="18" Y1="0" X2="18" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute09b" X1="18" Y1="16" X2="18" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute10" X1="20" Y1="0" X2="20" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute10b" X1="20" Y1="16" X2="20" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute11" X1="22" Y1="0" X2="22" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute11b" X1="22" Y1="16" X2="22" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute12" X1="24" Y1="0" X2="24" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute12b" X1="24" Y1="16" X2="24" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute13" X1="26" Y1="0" X2="26" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute13b" X1="26" Y1="16" X2="26" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute14" X1="28" Y1="0" X2="28" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute14b" X1="28" Y1="16" X2="28" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute15" X1="30" Y1="0" X2="30" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute15b" X1="30" Y1="16" X2="30" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute16" X1="32" Y1="0" X2="32" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute16b" X1="32" Y1="16" X2="32" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute17" X1="34" Y1="0" X2="34" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute17b" X1="34" Y1="16" X2="34" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute18" X1="36" Y1="0" X2="36" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute18b" X1="36" Y1="16" X2="36" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute19" X1="38" Y1="0" X2="38" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute19b" X1="38" Y1="16" X2="38" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute20" X1="40" Y1="0" X2="40" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute20b" X1="40" Y1="16" X2="40" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute21" X1="42" Y1="0" X2="42" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute21b" X1="42" Y1="16" X2="42" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute22" X1="44" Y1="0" X2="44" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute22b" X1="44" Y1="16" X2="44" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute23" X1="46" Y1="0" X2="46" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute23b" X1="46" Y1="16" X2="46" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute24" X1="48" Y1="0" X2="48" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute24b" X1="48" Y1="16" X2="48" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute25" X1="50" Y1="0" X2="50" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute25b" X1="50" Y1="16" X2="50" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute26" X1="52" Y1="0" X2="52" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute26b" X1="52" Y1="16" X2="52" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute27" X1="54" Y1="0" X2="54" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute27b" X1="54" Y1="16" X2="54" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute28" X1="56" Y1="0" X2="56" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute28b" X1="56" Y1="16" X2="56" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute29" X1="58" Y1="0" X2="58" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute29b" X1="58" Y1="16" X2="58" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute30" X1="60" Y1="0" X2="60" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute30b" X1="60" Y1="16" X2="60" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute31" X1="62" Y1="0" X2="62" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute31b" X1="62" Y1="16" X2="62" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute32" X1="64" Y1="0" X2="64" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute32b" X1="64" Y1="16" X2="64" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute33" X1="66" Y1="0" X2="66" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute33b" X1="66" Y1="16" X2="66" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute34" X1="68" Y1="0" X2="68" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute34b" X1="68" Y1="16" X2="68" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute35" X1="70" Y1="0" X2="70" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute35b" X1="70" Y1="16" X2="70" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute36" X1="72" Y1="0" X2="72" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute36b" X1="72" Y1="16" X2="72" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute37" X1="74" Y1="0" X2="74" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute37b" X1="74" Y1="16" X2="74" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute38" X1="76" Y1="0" X2="76" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute38b" X1="76" Y1="16" X2="76" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute39" X1="78" Y1="0" X2="78" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute39b" X1="78" Y1="16" X2="78" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute40" X1="80" Y1="0" X2="80" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute40b" X1="80" Y1="16" X2="80" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute41" X1="82" Y1="0" X2="82" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute41b" X1="82" Y1="16" X2="82" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute42" X1="84" Y1="0" X2="84" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute42b" X1="84" Y1="16" X2="84" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute43" X1="86" Y1="0" X2="86" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute43b" X1="86" Y1="16" X2="86" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute44" X1="88" Y1="0" X2="88" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute44b" X1="88" Y1="16" X2="88" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute45" X1="90" Y1="0" X2="90" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute45b" X1="90" Y1="16" X2="90" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute46" X1="92" Y1="0" X2="92" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute46b" X1="92" Y1="16" X2="92" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute47" X1="94" Y1="0" X2="94" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute47b" X1="94" Y1="16" X2="94" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute48" X1="96" Y1="0" X2="96" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute48b" X1="96" Y1="16" X2="96" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute49" X1="98" Y1="0" X2="98" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute49b" X1="98" Y1="16" X2="98" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute50" X1="100" Y1="0" X2="100" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute50b" X1="100" Y1="16" X2="100" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute51" X1="102" Y1="0" X2="102" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute51b" X1="102" Y1="16" X2="102" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute52" X1="104" Y1="0" X2="104" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute52b" X1="104" Y1="16" X2="104" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute53" X1="106" Y1="0" X2="106" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute53b" X1="106" Y1="16" X2="106" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute54" X1="108" Y1="0" X2="108" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute54b" X1="108" Y1="16" X2="108" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute55" X1="110" Y1="0" X2="110" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute55b" X1="110" Y1="16" X2="110" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute56" X1="112" Y1="0" X2="112" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute56b" X1="112" Y1="16" X2="112" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute57" X1="114" Y1="0" X2="114" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute57b" X1="114" Y1="16" X2="114" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute58" X1="116" Y1="0" X2="116" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute58b" X1="116" Y1="16" X2="116" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+            <Line Name="Minute59" X1="118" Y1="0" X2="118" Y2="24" Stroke="White" StrokeThickness="2"/>
+            <Line Name="Minute59b" X1="118" Y1="16" X2="118" Y2="24" Stroke="Red" StrokeThickness="2" Visibility="Hidden"/>
+        </Canvas>
+    </Grid>
+</UserControl>
