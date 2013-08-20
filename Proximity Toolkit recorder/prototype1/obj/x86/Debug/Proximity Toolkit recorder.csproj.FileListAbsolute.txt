@@ -1,0 +1,97 @@
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.exe
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.pdb
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\prototype1.exe
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\prototype1.pdb
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.dll
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\MathNet.Numerics.dll
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.pdb
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.xml
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.pdb
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.xml
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\MainWindow.baml
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Objects.baml
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Objects.g.cs
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\App.g.cs
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1_MarkupCompile.cache
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.g.resources
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.Properties.Resources.resources
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.exe
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.pdb
+I:\Proximity Toolkit recorder\prototype1\bin\Debug\prototype1.exe
+I:\Proximity Toolkit recorder\prototype1\bin\Debug\prototype1.pdb
+I:\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.dll
+I:\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.dll
+I:\Proximity Toolkit recorder\prototype1\bin\Debug\MathNet.Numerics.dll
+I:\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.pdb
+I:\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.xml
+I:\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.pdb
+I:\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.xml
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\MainWindow.baml
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Objects.baml
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\MainWindow.g.cs
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Objects.g.cs
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\App.g.cs
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1_MarkupCompile.cache
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.g.resources
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.Properties.Resources.resources
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.exe
+E:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.pdb
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Recording.baml
+I:\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Recording.g.cs
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Recording.baml
+C:\Users\Interactions Lab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Recording.g.cs
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.exe
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.pdb
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\prototype1.exe
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\prototype1.pdb
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.dll
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.dll
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\MathNet.Numerics.dll
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.pdb
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.xml
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.pdb
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.xml
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\MainWindow.baml
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Objects.baml
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Recording.baml
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Objects.g.cs
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Recording.g.cs
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\App.g.cs
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1_MarkupCompile.cache
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.g.resources
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.Properties.Resources.resources
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iLab\Desktop\Proximity Toolkit recorder\prototype1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.exe
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.pdb
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\bin\Debug\prototype1.exe
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\bin\Debug\prototype1.pdb
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.dll
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.dll
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\bin\Debug\MathNet.Numerics.dll
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.pdb
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\bin\Debug\ProximityToolkit.xml
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.pdb
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\bin\Debug\GroupLab.Networking.xml
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\MainWindow.baml
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Objects.baml
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Recording.baml
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Objects.g.cs
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\Recording.g.cs
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\App.g.cs
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1_MarkupCompile.cache
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.g.resources
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\prototype1.Properties.Resources.resources
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iLab\Desktop\Frederico\Proximity Toolkit recorder\prototype1\obj\x86\Debug\GenerateResource.write.1.tlog

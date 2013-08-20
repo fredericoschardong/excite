@@ -1,0 +1,59 @@
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\bin\Debug\prototype1.exe
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\bin\Debug\prototype1.pdb
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\MainWindow.baml
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\App.g.cs
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\prototype1_MarkupCompile.cache
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\prototype1.g.resources
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\prototype1.Properties.Resources.resources
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\prototype1.exe
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\prototype1.pdb
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\Objects.baml
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\obj\x86\Debug\Objects.g.cs
+C:\Users\Interactions Lab\Desktop\prototype1\prototype1\bin\Debug\GroupLab.Networking.dll
+I:\prototype1\prototype1\obj\x86\Debug\prototype1.exe
+I:\prototype1\prototype1\obj\x86\Debug\prototype1.pdb
+I:\prototype1\prototype1\bin\Debug\prototype1.exe
+I:\prototype1\prototype1\bin\Debug\prototype1.pdb
+I:\prototype1\prototype1\bin\Debug\GroupLab.Networking.dll
+I:\prototype1\prototype1\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\prototype1\prototype1\obj\x86\Debug\MainWindow.baml
+I:\prototype1\prototype1\obj\x86\Debug\Objects.baml
+I:\prototype1\prototype1\obj\x86\Debug\MainWindow.g.cs
+I:\prototype1\prototype1\obj\x86\Debug\Objects.g.cs
+I:\prototype1\prototype1\obj\x86\Debug\App.g.cs
+I:\prototype1\prototype1\obj\x86\Debug\prototype1_MarkupCompile.cache
+I:\prototype1\prototype1\obj\x86\Debug\prototype1.g.resources
+I:\prototype1\prototype1\obj\x86\Debug\prototype1.Properties.Resources.resources
+I:\prototype1\prototype1\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\prototype1\prototype1\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\prototype1\prototype1\bin\Debug\ProximityToolkit.dll
+I:\prototype1\prototype1\bin\Debug\MathNet.Numerics.dll
+I:\prototype1\prototype1\bin\Debug\ProximityToolkit.pdb
+I:\prototype1\prototype1\bin\Debug\ProximityToolkit.xml
+I:\prototype1\prototype1\bin\Debug\GroupLab.Networking.pdb
+I:\prototype1\prototype1\bin\Debug\GroupLab.Networking.xml
+E:\prototype1\prototype1\obj\x86\Debug\prototype1.exe
+E:\prototype1\prototype1\obj\x86\Debug\prototype1.pdb
+E:\prototype1\prototype1\bin\Debug\prototype1.exe
+E:\prototype1\prototype1\bin\Debug\prototype1.pdb
+E:\prototype1\prototype1\bin\Debug\GroupLab.Networking.dll
+E:\prototype1\prototype1\bin\Debug\MathNet.Numerics.dll
+E:\prototype1\prototype1\bin\Debug\ProximityToolkit.pdb
+E:\prototype1\prototype1\bin\Debug\ProximityToolkit.xml
+E:\prototype1\prototype1\bin\Debug\GroupLab.Networking.pdb
+E:\prototype1\prototype1\bin\Debug\GroupLab.Networking.xml
+E:\prototype1\prototype1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\prototype1\prototype1\obj\x86\Debug\MainWindow.baml
+E:\prototype1\prototype1\obj\x86\Debug\Objects.baml
+E:\prototype1\prototype1\obj\x86\Debug\MainWindow.g.cs
+E:\prototype1\prototype1\obj\x86\Debug\Objects.g.cs
+E:\prototype1\prototype1\obj\x86\Debug\App.g.cs
+E:\prototype1\prototype1\obj\x86\Debug\prototype1_MarkupCompile.cache
+E:\prototype1\prototype1\obj\x86\Debug\prototype1.g.resources
+E:\prototype1\prototype1\obj\x86\Debug\prototype1.Properties.Resources.resources
+E:\prototype1\prototype1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\prototype1\prototype1\obj\x86\Debug\GenerateResource.write.1.tlog
